@@ -1,0 +1,53 @@
+.S1 {
+  color: rgb(160, 49, 114);
+}
+.S2 {
+  color: rgb(104, 110, 221);
+}
+.S3 {
+  color: rgb(119, 224, 145);
+}
+.S4 {
+  color: rgb(190, 207, 79);
+}
+.S5 {
+  color: rgb(203, 175, 191);
+}
+.S6 {
+  color: rgb(138, 163, 138);
+}
+.S7 {
+  color: rgb(100, 193, 195);
+}
+img {
+  border-radius: 50%;
+  max-width: 4in;
+  max-height: auto;
+}
+.title {
+  font-size: 20pt;
+  font-weight: bold;
+}
+.description {
+  padding-left: 5%;
+  font-size: 15pt;
+}
+.main {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 40pt;
+  color: rgb(213, 33, 57);
+  text-shadow: 1px 1px 2px rgb(179, 168, 216), 0 0 1em rgb(200, 224, 93),
+    0 0 0.2em rgb(4, 46, 18);
+}
+* {
+  background-color: rgb(34, 34, 24);
+}
+h2 {
+  font-size: 25pt;
+  font-family: cursive;
+  font-weight: bolder;
+}
+.e607 {
+  font-family: "Noto Music", sans-serif;
+}
